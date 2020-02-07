@@ -2,7 +2,7 @@
   <div id="app">
     <div class="custom-input" @input="handleUserInput">
       <span style="color:green;">{{abc}}</span>
-      <span>abc</span>
+      <span>abcdsfdd</span>
     </div>
   </div>
 </template>
